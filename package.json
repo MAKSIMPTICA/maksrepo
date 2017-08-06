@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/MAKSIMPTICA/maksrepo/issues"
   },
-  "homepage": "https://github.com/MAKSIMPTICA/maksrepo#readme"
+  "homepage": "https://github.com/MAKSIMPTICA/maksrepo#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.2.1"
+  }
 }
