@@ -1,0 +1,22 @@
+{
+  "name": "maksrepo",
+  "version": "1.0.0",
+  "description": "maksrepo",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MAKSIMPTICA/maksrepo.git"
+  },
+  "keywords": [
+    "maks"
+  ],
+  "author": "maksimptica",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MAKSIMPTICA/maksrepo/issues"
+  },
+  "homepage": "https://github.com/MAKSIMPTICA/maksrepo#readme"
+}
